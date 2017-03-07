@@ -1,0 +1,90 @@
+Tpokerth_protocol
+v5
+r1
+cCheck dependencies
+cCompileC obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/pokerth.pb.o /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/src/third_party/protobuf/pokerth.pb.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/chatcleaner.pb.o /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/src/third_party/protobuf/chatcleaner.pb.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005130312F00000000000000AA
+t1362112815
+s170
+
+N/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/Debug/libpokerth_protocol.a
+t2
+s0
+
+N/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/chatcleaner.pb.o
+t2
+s0
+
+N/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/pokerth.pb.o
+t2
+s0
+
+N/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/pokerth_protocol.LinkFileList
+c000000005739CBC10000000000000132
+t1463405505
+s306
+
+N/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Script-9C316F444A62BF296E3E1F25.sh
+c000000005739CBC10000000000000077
+t1463405505
+s119
+
+N/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/src/third_party/protobuf/chatcleaner.pb.cc
+c00000000571FD84C000000000000E262
+t1461704780
+s57954
+
+N/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/src/third_party/protobuf/pokerth.pb.cc
+c00000000571FD87400000000000E9FD1
+t1461704820
+s958417
+
+CBuild AST from /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/src/third_party/protobuf/chatcleaner.pb.cc
+r0
+
+CBuild AST from /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/src/third_party/protobuf/pokerth.pb.cc
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8579234103eabc41^1fba244103eabc41^---0#1#0#--18"Check dependencies36"6A990608-83A9-45B8-A7C9-8088E41D03CD-
+
+CCompileC obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/chatcleaner.pb.o /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/src/third_party/protobuf/chatcleaner.pb.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s485098305.151507
+e485098305.178742
+r0
+xCompileC
+xobj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/chatcleaner.pb.o
+x/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/src/third_party/protobuf/chatcleaner.pb.cc
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: error: unsupported option '--serialize-diagnostics'
+oclang: error: no such file or directory: '/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/chatcleaner.pb.dia'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/src/third_party/protobuf/chatcleaner.pb.cc1afb264103eabc41^83f72d4103eabc41^-259"clang: error: unsupported option '--serialize-diagnostics'clang: error: no such file or directory: '/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/chatcleaner.pb.dia'-0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/src/third_party/protobuf/chatcleaner.pb.cc0000000000000000^2620"CompileC obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/chatcleaner.pb.o src/third_party/protobuf/chatcleaner.pb.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -Wno-sign-conversion -I/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/pokerth_protocol.hmap -I/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/Debug/include -I. -I. -Isrc -I/Developer/SDKs/MacOSX10.7.sdk/usr/include -I/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/opt/local/include -I../../../Qt5.5.0/5.5/clang_64/mkspecs/macx-clang -I/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/DerivedSources/x86_64 -I/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/DerivedSources -F/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/Debug -pipe -O2 -fPIC -Wall -W -DENABLE_IPV6 -DQT_NO_DEBUG -MMD -MT dependencies -MF /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/chatcleaner.pb.d --serialize-diagnostics /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/chatcleaner.pb.dia -c /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/src/third_party/protobuf/chatcleaner.pb.cc -o /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/chatcleaner.pb.o36"BC8336AB-24FC-4CA3-B1FF-E49648B606CE-
+
+CCompileC obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/pokerth.pb.o /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/src/third_party/protobuf/pokerth.pb.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s485098305.144605
+e485098305.176538
+r0
+xCompileC
+xobj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/pokerth.pb.o
+x/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/src/third_party/protobuf/pokerth.pb.cc
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: error: unsupported option '--serialize-diagnostics'
+oclang: error: no such file or directory: '/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/pokerth.pb.dia'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/src/third_party/protobuf/pokerth.pb.ccc922254103eabc41^a5f32d4103eabc41^-312"clang: error: unsupported option '--serialize-diagnostics'clang: error: no such file or directory: '/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/pokerth.pb.dia'Command /Developer/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@56"Command /Developer/usr/bin/clang failed with exit code 1-485098305#18446744073709551615#0#-2#--20"Clang LLVM 1.0 Error--0#0#0#-19%DVTDocumentLocation3@114"file://localhost/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/src/third_party/protobuf/pokerth.pb.cc0000000000000000^2596"CompileC obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/pokerth.pb.o src/third_party/protobuf/pokerth.pb.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -Wno-sign-conversion -I/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/pokerth_protocol.hmap -I/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/Debug/include -I. -I. -Isrc -I/Developer/SDKs/MacOSX10.7.sdk/usr/include -I/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/opt/local/include -I../../../Qt5.5.0/5.5/clang_64/mkspecs/macx-clang -I/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/DerivedSources/x86_64 -I/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/DerivedSources -F/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/Debug -pipe -O2 -fPIC -Wall -W -DENABLE_IPV6 -DQT_NO_DEBUG -MMD -MT dependencies -MF /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/pokerth.pb.d --serialize-diagnostics /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/pokerth.pb.dia -c /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/src/third_party/protobuf/pokerth.pb.cc -o /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Objects-normal/x86_64/pokerth.pb.o36"FB32F187-1CEA-45EF-ACD9-2884DE114285-
+
+CLibtool /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/Debug/libpokerth_protocol.a normal x86_64
+r0
+
+CPhaseScriptExecution "Project Copy" /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/pokerth_protocol.build/Script-9C316F444A62BF296E3E1F25.sh
+r0
+

@@ -1,0 +1,41 @@
+TQt Preprocess
+v5
+r1
+cCheck dependencies
+cPhaseScriptExecution "Qt Qmake" "/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/Qt Preprocess.build/Script-5E618435888B9D49F8540165.sh"
+cPhaseScriptExecution "Qt Preprocessors" "/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/Qt Preprocess.build/Script-7EF0942E79C014DCEC8976BC.sh"
+
+N/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/Qt Preprocess.build/Script-5E618435888B9D49F8540165.sh
+c000000005739CBC0000000000000007E
+t1463405504
+s126
+
+N/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/Qt Preprocess.build/Script-7EF0942E79C014DCEC8976BC.sh
+c000000005739CBC0000000000000007F
+t1463405504
+s127
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies309cd34003eabc41^6a30d94003eabc41^---0#1#0#--18"Check dependencies36"BD9E2677-E940-4E62-B5D5-B6DD66FD092A-
+
+CPhaseScriptExecution "Qt Preprocessors" "/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/Qt Preprocess.build/Script-7EF0942E79C014DCEC8976BC.sh"
+s485098305.087425
+e485098305.120359
+r1
+xPhaseScriptExecution
+xQt Preprocessors
+x/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/Qt Preprocess.build/Script-7EF0942E79C014DCEC8976BC.sh
+omake: Nothing to be done for `preprocess'.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Run custom shell script 'Qt Preprocessors'02f1164103eabc41^36e51e4103eabc41^-43"make: Nothing to be done for `preprocess'.1(21%IDEActivityLogMessage2@43"make: Nothing to be done for `preprocess'.-485098305#0#43#-0#-----0#0#0#--366"PhaseScriptExecution "Qt Preprocessors" "obj/pokerth_protocol.build/Debug/Qt Preprocess.build/Script-7EF0942E79C014DCEC8976BC.sh"    cd /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client    /bin/sh -c "\"/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/Qt Preprocess.build/Script-7EF0942E79C014DCEC8976BC.sh\""36"467641BF-2A00-45C6-8E58-451EE7474422-
+
+CPhaseScriptExecution "Qt Qmake" "/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/Qt Preprocess.build/Script-5E618435888B9D49F8540165.sh"
+s485098304.850246
+e485098305.077544
+r1
+xPhaseScriptExecution
+xQt Qmake
+x/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/Qt Preprocess.build/Script-5E618435888B9D49F8540165.sh
+omake: `pokerth_protocol.xcodeproj/project.pbxproj' is up to date.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Run custom shell script 'Qt Qmake'6b2bda4003eabc41^f3e7134103eabc41^-66"make: `pokerth_protocol.xcodeproj/project.pbxproj' is up to date.1(21%IDEActivityLogMessage2@66"make: `pokerth_protocol.xcodeproj/project.pbxproj' is up to date.-485098305#0#66#-0#-----0#0#0#--358"PhaseScriptExecution "Qt Qmake" "obj/pokerth_protocol.build/Debug/Qt Preprocess.build/Script-5E618435888B9D49F8540165.sh"    cd /Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client    /bin/sh -c "\"/Users/espirmac/Downloads/ODESK_TEMP/PokerTH-1.1-src_Client/obj/pokerth_protocol.build/Debug/Qt Preprocess.build/Script-5E618435888B9D49F8540165.sh\""36"0132406A-B6E0-4893-8BF4-F726B20695E0-
+
